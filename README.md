@@ -1,2 +1,2 @@
 # Chehab-MOSAAD.github.io
-This is my one resume/portfolio website.
+This is my one-page resume/portfolio website.
